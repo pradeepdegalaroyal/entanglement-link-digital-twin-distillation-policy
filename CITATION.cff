@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Digital Twin of a Drifting Entanglement-Distribution Link: Cost-Charged Monitoring and Distillation-Policy Selection"
+type: software
+authors:
+  - family-names: Degala
+    given-names: Chenchupradeep
+version: 0.1.0
+date-released: 2026-11-13
+license: MIT
+repository-code: "https://github.com/pradeepdegalaroyal/entanglement-link-digital-twin-distillation-policy"
+abstract: "Simulation study comparing a static digital model, a periodic-recalibration digital shadow and a particle-filter digital twin with pre-posterior monitoring for a dephasing-biased entanglement link, with monitoring pairs charged to the link."
+keywords:
+  - entanglement distribution
+  - digital twin
+  - entanglement distillation
+  - quantum networks
